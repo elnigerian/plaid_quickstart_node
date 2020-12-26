@@ -187,8 +187,8 @@ Item row
 }
 
 .item-data-row__request-type {
-  background-color
-  font-size: 12px;
+  /*background-color: #D9F3FE;
+  font-size: 12px;*/
   color: #02B1F8;
   letter-spacing: 0;
   background: #D9F3FE;
