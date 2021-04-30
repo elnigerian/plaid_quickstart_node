@@ -1,6 +1,5 @@
 // read env vars from .env file
 import 'dotenv/config';
-
 import util from 'util';
 import express from 'express';
 import bodyParser from 'body-parser';
