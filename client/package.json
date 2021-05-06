@@ -11,8 +11,8 @@
     "watch": "nodemon src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "developers@plaid.com",
-  "repository": "https://github.com/plaid/quickstart",
+  "author": "elingerian",
+  "repository": "https://github.com/elnigerian/plaid_quickstart_node.git",
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.18.x",
