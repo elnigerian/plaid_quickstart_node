@@ -1,0 +1,27 @@
+## Not including idea / vscode / etc
+.idea
+
+.vscode
+
+# No dependency directories of any kind
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# go
+go/quickstart
+
+# macOS
+**/.DS_Store
+
+# Docker-compose
+docker-compose.local*.yml
+
+# Other areas
+*.iml
+.env
